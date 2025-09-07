@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 ## I can
-Javascript dart java python C ~~C++ kotlin~~
+Javascript dart java python C
